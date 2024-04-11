@@ -1,0 +1,19 @@
+{
+  "name": "web3-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_eth_account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "20.11.1",
+    "npm": "10.2.4"
+  },
+  "dependencies": {
+    "web3": "^4.7.0"
+  }
+}
